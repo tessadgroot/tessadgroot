@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**tessadgroot/tessadgroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Tessa de Groot
 
-Here are some ideas to get you started:
+**Building Automation Engineer transitioning into Software Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a background in SCADA/HMI development, automation, and technical systems, and I’m currently expanding my skills in **Python** and **SQL** to move further into IT/software engineering.
+
+---
+
+## 🚀 Skills
+**Languages:** Python (learning), SQL (learning), C++ (basic)  
+**Automation:** AVEVA System Platform / InTouch, Priva, Allen-Bradley (basic)  
+**Other:** AutoCAD (basic), documentation (IO lists, cable schedules, Network Architecture, Functional design specification, etc.) , testing FAT and SAT
+
+---
+
+## 🧩 Experience
+- Built SCADA/HMI visualisations for international datacenter projects  
+- Developed logic/scripting in AVEVA, incl. sensor-averaging script  
+- Worked with PLC configurations (Priva, basic Allen-Bradley)  
+- Testing, documentation and commissioning support
+
+---
+
+## 🌱 Currently Learning
+Python • SQL • Git/GitHub • software development practices
+
+---
+
+## 📫 Contact
+**LinkedIn:** https://www.linkedin.com/in/tessa-de-groot-2a483590/ 
