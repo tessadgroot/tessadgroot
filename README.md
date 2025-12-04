@@ -4,7 +4,7 @@
 
 **Building Automation Engineer transitioning into Software Development**
 
-I have a background in SCADA/HMI development, automation, and technical systems, and I’m currently expanding my skills in **Python** and **SQL** to move further into IT/software engineering.
+I have a background in SCADA/HMI development, automation, and technical systems, and I’m currently expanding my skills in **Python** and **SQL** to move further into IT/software engineering with a focus in data engineering.
 
 ---
 
