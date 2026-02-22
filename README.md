@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Tessa de Groot
 
-**Building Automation Engineer transitioning into Software Development**
+**Automation Engineer with a growing focus on software development**
 
-I have a background in SCADA/HMI development, automation, and technical systems, and I’m currently expanding my skills in **Python** and **SQL** to move further into IT/software engineering with a focus in data engineering.
+Background in SCADA/HMI, industrial automation, and technical systems. Currently expanding my skills in **Python** and **SQL**.
 
 ---
 
